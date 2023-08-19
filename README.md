@@ -2,7 +2,7 @@
 
 
 
-<div align=center><h3>👩🏻‍💻 Stack</h3></div>
+<div align=center><h3>👩🏻‍💻Stack</h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -35,7 +35,7 @@
 </div>
 
 <br>
-<h3 align="center">🌷 Contact</h3>
+<h3 align="center">🌷Contact</h3>
 <p align="center">
   <a href="(https://velog.io/@yjoct13)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
 <!--   <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp -->
