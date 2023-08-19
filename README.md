@@ -33,8 +33,8 @@
 <br>
 <h3 align="center">🌷 Contact</h3>
 <p align="center">
-  <a href="(https://velog.io/@yjoct13)"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yjoct13"/></a>&nbsp
-  <a href="mailto:yjoct13@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yjoct13@gmail.com"/></a>
+  <a href="https://velog.io/@yjoct13"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@"/>&nbsp
+  <a href="mailto:yjoct13@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
